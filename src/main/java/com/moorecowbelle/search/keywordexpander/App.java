@@ -1,4 +1,4 @@
-package com.rei.search.keywordexpander;
+package com.moorecowbelle.search.keywordexpander;
 
 import java.io.*;
 import java.util.ArrayList;
