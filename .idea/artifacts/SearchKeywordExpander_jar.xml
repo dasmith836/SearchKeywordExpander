@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SearchKeywordExpander:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SearchKeywordExpander_jar</output-path>
+    <root id="archive" name="SearchKeywordExpander.jar">
+      <element id="module-output" name="SearchKeywordExpander" />
+    </root>
+  </artifact>
+</component>
